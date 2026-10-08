@@ -1,0 +1,35 @@
+:root {
+  --canvas: #f3f5ef;
+  --surface: #ffffff;
+  --surface-raised: #fbfcf9;
+  --ink-900: #18241c;
+  --ink-700: #46544a;
+  --ink-500: #718074;
+  --line: #e3e8df;
+  --line-strong: #d0d9ce;
+  --forest-950: #14271c;
+  --forest-800: #234632;
+  --forest-600: #397450;
+  --lime-400: #a9cf49;
+  --lime-200: #e5f0c7;
+  --sun-500: #e2a536;
+  --sun-100: #fff2d5;
+  --coral-500: #d87557;
+  --coral-100: #fce8df;
+  --blue-500: #5b8d9e;
+  --blue-100: #e5f0f3;
+  --focus-ring: #bbd85d;
+  --font-ui: 'Trebuchet MS', 'Segoe UI', sans-serif;
+  --font-display: 'Georgia', 'Times New Roman', serif;
+  --radius-sm: 5px;
+  --radius-md: 9px;
+  --radius-lg: 14px;
+  --shadow-soft: 0 10px 28px rgb(29 47 33 / 5%);
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+}

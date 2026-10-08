@@ -1,0 +1,2 @@
+.map-requirement{min-width:0;display:flex;flex-direction:column;align-items:stretch;gap:12px}.map-requirement .sensor-card{height:auto;min-height:0;flex:0 0 auto;justify-content:flex-start}.map-setup-grid{align-items:stretch}.map-unavailable{height:100%}
+@media(max-width:900px){.map-requirement{height:auto}.map-requirement .sensor-card{height:auto}}
